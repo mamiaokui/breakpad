@@ -1,0 +1,3 @@
+# pack-refs with: peeled fully-peeled 
+efa30c13f2e0bf2cb60a9d00010e8cdc162c872a refs/heads/breakpad
+089d5a72739187bd060fcf886a3576aaa5f337a4 refs/remotes/git-svn

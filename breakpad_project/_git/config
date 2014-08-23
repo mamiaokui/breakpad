@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[svn-remote "svn"]
+	url = http://google-breakpad.googlecode.com/svn/trunk
+	fetch = :refs/remotes/git-svn

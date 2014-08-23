@@ -1,0 +1,5 @@
+; This file is used internally by git-svn
+; You should not have to edit it
+[svn-remote "svn"]
+	reposRoot = http://google-breakpad.googlecode.com/svn
+	uuid = 4c0a9323-5329-0410-9bdc-e9ce6186880e
